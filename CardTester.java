@@ -203,9 +203,9 @@ public class CardTester {
 		System.out.println("Full constructor should have built card 7 " + Card.HEART + ": " + test);
 
 		// - invalid data (should shutdown program)
-		// test = new Card(17, Card.CLUB); //should shutdown program, test by uncommenting
-		// test = new Card(11, '3'); //should shutdown program, test by uncommenting
-		// test = new Card(17, Card.CLUB); //should shutdown program, test by uncommenting
+		//test = new Card(17, Card.CLUB); //should shutdown program, test by uncommenting
+		//test = new Card(11, '3'); //should shutdown program, test by uncommenting
+		//test = new Card(17, Card.CLUB); //should shutdown program, test by uncommenting
 	}
 
 	public static void testCopyConstructor() {

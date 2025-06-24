@@ -14,8 +14,8 @@ import java.security.PublicKey;
  * constant variables will be used throughout code for consistency
  * - Whenever value/suit is changed, it must be within the valid values
  *
- * @author ???
- * @version ???
+ * @author Joshuah Tello
+ * @version 1.0
  */
 
 /*
